@@ -2,6 +2,6 @@
   (:require [clojure.test :refer :all]
             [clojure-library-experiment.core :refer :all]))
 
-(deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+(deftest f-test
+  (testing "(f 1) is 2"
+    (is (= (f 1) 2))))
