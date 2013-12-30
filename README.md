@@ -10,6 +10,7 @@ Refer [clojure-use-my-lib-experiment](https://github.com/kaosf/clojure-use-my-li
 
 ```clj
 (f 1) ;-> 2
+(g 2) ;-> 4
 ```
 
 ## License
