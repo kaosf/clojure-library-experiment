@@ -4,7 +4,7 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+Refer [clojure-use-my-lib-experiment](https://github.com/kaosf/clojure-use-my-lib-experiment).
 
 ## Example
 
